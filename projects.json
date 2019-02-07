@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "title": "empty",
         "folder": "empty",
@@ -55,12 +55,20 @@
 	    "info": "Jumping and Whipping",
         "status": 0
     },
-	{
+    {
         "title": "ShootingGame",
         "folder": "ShootingGame",
         "author": "Lukas Kaisermayr",
         "year": "2018_WS",
-	    "info": "Jumping and Whipping",
+	    "info": "Shooting and fleeing",
+        "status": 0
+    },
+	{
+        "title": "DEAD",
+        "folder": "DEAD WebGL",
+        "author": "Adrian Haiser",
+        "year": "2018_WS",
+	    "info": "Don't die.",
         "status": 0
     },
 	{
@@ -70,5 +78,13 @@
         "year": "2018_WS",
 	    "info": "Turn-based Rougelike Dungeoncrawler",
         "status": 0
-    }
+    },
+	 {
+	 "title": "AdventureGame",
+	 "folder": "AdventureGame",
+	 "author": "Constanze Lampl",
+	 "year": "2018_WS",
+	 "info": "Adventure Game",
+	 "status": 0
+	 }
 ]

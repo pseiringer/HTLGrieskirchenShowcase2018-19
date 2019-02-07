@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Racing Game 2D",
+"dataUrl": "Racing Game 2D Web.data.unityweb",
+"wasmCodeUrl": "Racing Game 2D Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Racing Game 2D Web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
